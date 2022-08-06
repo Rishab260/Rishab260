@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning R
 - 💞️ I’m looking to collaborate on openCV
-- 📫 How to reach me- rishabsaini261@gmail.com
+- 📫 How to reach me- rishab260@hotmail.com
 
 <!---
 Rishab260/Rishab260 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
