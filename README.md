@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Rishab260
-- 👀 I’m interested in Data Science
+- 👀 I’m interested in Data Science and Pure Mathematics
 - 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on openCV
 - 📫 How to reach me- rishab260@hotmail.com
 
 <!---
