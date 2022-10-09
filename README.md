@@ -6,7 +6,7 @@
 <h2>My Live Projects:- </h2>
 <h3>1) Student Marks Prediction With SLR + Django </h3>
   <h4> https://rishab360.pythonanywhere.com/ </h4>
-  <h4> markspredictor.rishab260.me/ </h4>
+  <h4> https://markspredictor.rishab260.me/ </h4>
 <h3>2) Student Registration Form </h3>
  <h4>  https://rishab260.pythonanywhere.com/</h4>
  <h4> http://studentreg.rishab260.me/ </h4>
