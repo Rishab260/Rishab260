@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @Rishab260
-- 👀 I’m interested in Data Science and Pure Mathematics.
-- 🌱 I’m currently learning Data Science.
 - 📫 How to reach me- rishab260@hotmail.com
 
 <h2>My Live Projects:- </h2>
