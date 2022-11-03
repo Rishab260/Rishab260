@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rishab260
--  &#200D Full-Stack Data Scientist
+- Full-Stack Data Scientist
 - 📫 How to reach me- rishab260@hotmail.com
 
 <h2>My Live Projects:- </h2>
