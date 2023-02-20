@@ -8,7 +8,7 @@
 <h3>2) Student Marks Prediction With SLR + Django </h3>
   <h4> https://rishab360.pythonanywhere.com/ </h4>
   <h4> http://markspredictor.rishab260.me/ </h4>
-<h3>3) Resturant Management System with Customer Sentiment Analysis
+<h3>3) Restaurant Management System with Customer Sentiment Analysis
   <h4> https://github.com/Rishab260/HotelManagementSystem/tree/3.0.0 </h4>
 <h3>4) Student Registration Form </h3>
  <h4>  https://rishab260.pythonanywhere.com/</h4>
