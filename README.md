@@ -4,7 +4,7 @@
 
 <h2>My Projects:- </h2>
  <h3>1) Driver-Drowsiness Detection </h3>
- <h4> https://www.kaggle.com/code/rishab260/driverdrowsiness-detection-knn-main </h4>
+ <h4>https://github.com/Rishab260/Driver-Drowsiness-Detection </h4>
 <h3>2) Student Marks Prediction With SLR + Django </h3>
   <h4> https://rishab360.pythonanywhere.com/ </h4>
   <h4> http://markspredictor.rishab260.me/ </h4>
