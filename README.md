@@ -1,18 +1,18 @@
 - 👋 Hi, I’m @Rishab260
-- Full-Stack Data Scientist
-- 📫 How to reach me- rishab260@hotmail.com
+- Full-Stack Data Scientist || Python Developer
+- 📫 How to reach me- rishabsaini.ai@gmail.com
 
 <h2>My Projects:- </h2>
  <h3>1) Driver-Drowsiness Detection </h3>
  <h4>https://github.com/Rishab260/Driver-Drowsiness-Detection </h4>
-<h3>2) Student Marks Prediction With SLR + Django </h3>
-  <h4> https://rishab360.pythonanywhere.com/ </h4>
-  <h4> http://markspredictor.rishab260.me/ </h4>
-<h3>3) Restaurant Management System with Customer Sentiment Analysis
-  <h4> https://github.com/Rishab260/HotelManagementSystem/tree/3.0.0 </h4>
-<h3>4) Student Registration Form </h3>
- <h4>  https://rishab260.pythonanywhere.com/</h4>
- <h4> http://studentreg.rishab260.me/ </h4>
+<h3>2) Table OCR (Image to Excel) </h3>
+  <h4> Demo : https://rishab0.pythonanywhere.com/ </h4>
+  <h4> Repo : https://github.com/Rishab260/tableOCR </h4>
+<h3>3) Enhanced Super Resolution With GAN (Generative Adversarial Networks) </h3>
+ <h4>  Demo: https://rishab1.pythonanywhere.com/</h4>
+ <h4>  Repo: https://github.com/Rishab260/res-gan </h4>
+ <h3>4) Restaurant Management System with Customer Sentiment Analysis
+  <h4> https://github.com/Rishab260/HotelManagementSystem/ </h4>
  <h3>5) Bank Default Risk Analysis</h3>
  <h4> https://github.com/Rishab260/Data-Analytics/tree/main/EDA-BankRiskAnalysis </h4>
 
