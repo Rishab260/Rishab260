@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rishab260
 - Full-Stack Data Scientist || Python Developer
-- 📫 How to reach me- rishabsaini.ai@gmail.com
+- Email : rishabsaini.ai@gmail.com
 - LinkedIn : https://www.linkedin.com/in/rishab260/
 
 <h2>My Projects:- </h2>
