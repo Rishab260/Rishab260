@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rishab260
-- Full-Stack Data Scientist || Python Developer
+- AI/ML Engineer || Full-Stack Developer
 - Email : rishabsaini.ai@gmail.com
 - LinkedIn : https://www.linkedin.com/in/rishab260/
 
