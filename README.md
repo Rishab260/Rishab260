@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rishab260
-- AI/ML Engineer || Full-Stack Developer
+- Associate Software Engineer @Vaco Binary Semantics LLP
 - Email : rishabsaini.ai@gmail.com
 - LinkedIn : https://www.linkedin.com/in/rishab260/
 
