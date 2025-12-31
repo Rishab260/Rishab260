@@ -69,15 +69,6 @@ ORM, forms, sessions, class-based views, crispy forms, PDF/email, etc.
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Rishab260&show_icons=true&theme=tokyonight" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishab260&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ## 🤝 Connect with Me
 
 - 💬 Ask me about Python, data analysis, or full-stack app design  
