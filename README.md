@@ -7,7 +7,6 @@
 
 <p align="center">
   <a href="https://github.com/Rishab260?tab=repositories">Repositories</a> •
-  <a href="https://www.linkedin.com/in/rishab260/">LinkedIn</a> •
   <a href="mailto:rishabsaini.ai@gmail.com">Email</a>
 </p>
 
