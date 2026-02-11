@@ -2,7 +2,6 @@
 <h1 align="center">👋 Hey, I'm Rishab Saini</h1>
 
 <p align="center">
-  💻 Associate Software Engineer @ <b>Vaco Binary Semantics LLP</b>  
   🧮 Mathematics & Data Science Enthusiast | Open Source Contributor
 </p>
 
