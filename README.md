@@ -71,8 +71,6 @@ ORM, forms, sessions, class-based views, crispy forms, PDF/email, etc.
 
 - 💬 Ask me about Python, data analysis, or full-stack app design  
 - 📫 Reach me at **[rishabsaini.ai@gmail.com](mailto:rishabsaini.ai@gmail.com)**  
-- 🌐 Connect on [LinkedIn](https://www.linkedin.com/in/rishab260/)
-
 ---
 
 ⭐ *“Open source isn’t just code — it’s community, curiosity, and collaboration.”*  
